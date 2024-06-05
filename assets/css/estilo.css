@@ -257,17 +257,20 @@ body{
     border-radius: 15px;
 }
 
+.secao--pico{
+    padding: 24px 16px;
+    display: grid;
+    gap: 16px;
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
 .texto--pico{
     font-size: 1.2rem;
     line-height: 2.0rem;
     font-weight: 400;
 
-}
-
-.cartao--pico{
-    width: 100%;
-    border-radius: 15px;
-    overflow: hidden;
 }
 
 .mapa--pico{
