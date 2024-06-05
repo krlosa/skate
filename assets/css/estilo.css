@@ -249,3 +249,27 @@ body{
 .cartao__botao--picos::before{
     content: "\e908";
 }
+
+/*Css Pico*/
+
+.imagens-pico{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.texto--pico{
+    font-size: 1.2rem;
+    line-height: 2.0rem;
+    font-weight: 400;
+
+}
+
+.cartao--pico{
+    width: 100%;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.mapa--pico{
+    width: 100%;
+}
